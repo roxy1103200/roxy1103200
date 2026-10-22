@@ -1,15 +1,48 @@
 ```md
-## Hi, I'm Roxy 👋
+<div align="center">
+  <h1>Hi, I'm Roxy 👋</h1>
+  <p><strong>Aspiring Full-Stack Engineer</strong></p>
+  <p>
+    Focused on Java backend development and AI agent workflows.<br>
+    Learning to build complete products from backend to frontend.
+  </p>
 
-### Aspiring Full-Stack Engineer
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Backend-2F6FEB?style=flat-square" alt="Backend Development">
+  <img src="https://img.shields.io/badge/AI_Agent_Workflows-7B61FF?style=flat-square" alt="AI Agent Workflows">
+  <img src="https://img.shields.io/badge/Full--Stack-Learning-238636?style=flat-square" alt="Full-Stack Learning">
+</div>
 
-I'm building my skills in full-stack development, with a current focus on Java backend development and AI agent workflows.
+---
 
-- 🔭 Currently working on Java backend development and agent workflow projects
-- 🌱 Learning how to build complete applications from backend APIs to frontend interfaces
-- 🤖 Exploring AI agents, workflow orchestration, and practical AI applications
-- 👯 Open to collaborating on Java backend, full-stack, and AI agent projects
-- 💬 Interested in Java, backend development, and agent workflows
-- 🎯 My goal is to become a full-stack engineer and build useful, reliable products
-- ⚡ I learn best by turning ideas into projects
+### 🧭 What I'm Focusing On
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>☕ Java Backend</h3>
+      <p>Developing my backend engineering skills with Java.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Agent Workflows</h3>
+      <p>Exploring how to design useful workflows powered by AI agents.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Full-Stack Development</h3>
+      <p>Learning to connect frontend experiences with backend services.</p>
+    </td>
+  </tr>
+</table>
+
+### 🎯 My Goal
+
+To grow into a full-stack engineer and build useful, reliable products from end to end.
+
+### 🤝 Open to Collaboration
+
+I'm interested in collaborating on Java backend, AI agent, and full-stack projects.
+
+### 📂 Explore My Work
+
+[Browse my repositories →](https://github.com/roxy1103200?tab=repositories)
 ```
