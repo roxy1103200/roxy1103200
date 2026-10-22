@@ -1,16 +1,15 @@
-## Hi there 👋
+```md
+## Hi, I'm Roxy 👋
 
-<!--
-**roxy1103200/roxy1103200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full-Stack Engineer
 
-Here are some ideas to get you started:
+I'm building my skills in full-stack development, with a current focus on Java backend development and AI agent workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on Java backend development and agent workflow projects
+- 🌱 Learning how to build complete applications from backend APIs to frontend interfaces
+- 🤖 Exploring AI agents, workflow orchestration, and practical AI applications
+- 👯 Open to collaborating on Java backend, full-stack, and AI agent projects
+- 💬 Interested in Java, backend development, and agent workflows
+- 🎯 My goal is to become a full-stack engineer and build useful, reliable products
+- ⚡ I learn best by turning ideas into projects
+```
