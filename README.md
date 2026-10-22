@@ -1,4 +1,4 @@
-```md
+md
 # Hi, I'm Roxy 👋
 
 ### Aspiring Full-Stack Engineer
@@ -29,4 +29,3 @@ I'm interested in collaborating on Java backend, AI agent, and full-stack projec
 ## 📂 Explore My Work
 
 [Browse my repositories →](https://github.com/roxy1103200?tab=repositories)
-```
